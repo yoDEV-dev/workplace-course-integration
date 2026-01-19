@@ -1,76 +1,86 @@
-# Workplace Course Integration
+# yoDEV Course Library
 
-Documentation and tools for integrating educational courses into yoDEV Workplace (AFFiNE fork).
+Curated courses for Latin American developers, available for import into yoDEV Workplace.
 
-## Overview
+## Available Courses
 
-This project enables yoDEV to offer curated, translated courses to Latin American developers through their Workplace platform. Users can open courses in their personal Workspace with full editing capabilities and AI assistance.
+| Course | Language | Open in Workplace |
+|--------|----------|-------------------|
+| [AI Agents for Beginners](courses/ai-agents-es/) | Spanish | [**Abrir**](https://workplace.yodev.dev/template/import?name=Agentes%20de%20IA%20para%20Principiantes&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ai-agents-es/course.zip) |
+| [Hugging Face NLP Course](courses/hf-nlp-es/) | Spanish | [**Abrir**](https://workplace.yodev.dev/template/import?name=Curso%20de%20NLP%20de%20Hugging%20Face&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/hf-nlp-es/course.zip) |
 
-## Current Status
+---
 
-### Completed
-- [x] Course content compilation (Microsoft AI Agents for Beginners - Spanish)
-- [x] Image migration to R2 storage
-- [x] Base64 image embedding for Workplace import
-- [x] Video embedding (YouTube)
-- [x] Workplace import testing and optimization
+## Course Details
 
-### In Progress
-- [ ] Course catalogue design and navigation
-- [ ] "Open in Workplace" button implementation
-- [ ] OIDC authentication flow
-- [ ] Document cloning to user workspaces
+### 1. AI Agents for Beginners (Spanish)
 
-## Project Structure
+- **Source:** [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- **Content:** 15 lessons on AI agent development
+- **Topics:** Agent frameworks, tool use, RAG, multi-agent patterns, memory
+- **Package:** ~2.7MB (with base64 embedded images)
+
+### 2. Hugging Face NLP Course (Spanish)
+
+- **Source:** [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
+- **Content:** Chapters 0-8 (Part 1: Fundamentals)
+- **Topics:** Transformers, tokenization, fine-tuning, datasets, NLP tasks
+- **Package:** ~494KB
+
+---
+
+## How It Works
+
+1. Click "Abrir" link for any course
+2. Sign in with your yoDEV account (if not already)
+3. Select target workspace
+4. Course is imported as an editable document
+
+See [docs/authentication-flow.md](docs/authentication-flow.md) for technical details.
+
+---
+
+## Repository Structure
 
 ```
 workplace-course-integration/
-├── README.md                     # This file
-├── docs/
-│   ├── technical-guide.md        # Technical implementation details
-│   ├── image-handling.md         # Image processing documentation
-│   └── authentication-flow.md    # OIDC integration (planned)
-├── scripts/
-│   ├── download-images.sh        # Download course images
-│   ├── convert-to-base64.py      # Embed images as base64
-│   └── add-videos.py             # Add video links to lessons
 ├── courses/
-│   └── ai-agents-es/
-│       ├── image-mapping.json    # Original to R2 URL mapping
-│       └── README.md             # Course-specific notes
-└── templates/
-    └── course-import-spec.md     # API specification template
+│   ├── ai-agents-es/         # Microsoft AI Agents course
+│   │   ├── course.zip        # BlockSuite snapshot
+│   │   ├── source/           # Source markdown
+│   │   └── README.md
+│   └── hf-nlp-es/            # Hugging Face NLP course
+│       ├── course.zip        # BlockSuite snapshot
+│       ├── source/           # Source markdown
+│       └── README.md
+├── docs/
+│   ├── authentication-flow.md
+│   ├── image-handling.md
+│   └── technical-guide.md
+├── scripts/                   # Processing scripts
+└── templates/                 # API specs
 ```
 
-## Quick Start
+## Adding a New Course
 
-### Prerequisites
-- Python 3.12+
-- GitHub CLI (`gh`)
-- Access to yoDEV R2 bucket
-- Workplace instance access
+1. Compile/translate course content to markdown
+2. Import markdown into Workplace
+3. Export as Snapshot (Document menu → Export → Snapshot)
+4. Upload `course.zip` to R2: `courses/{course-id}/course.zip`
+5. Add entry to this README with import link
+6. Create course README in `courses/{course-id}/`
 
-### Processing a New Course
+## R2 Storage
 
-1. **Download images** from source repository
-2. **Upload to R2** (optional - for external URL approach)
-3. **Convert to base64** for reliable Workplace import
-4. **Add video links** if course has video content
-5. **Import via Workplace** markdown import function
+Snapshots are stored in Cloudflare R2:
+```
+https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/{course-id}/course.zip
+```
 
-## First Course: AI Agents for Beginners (Spanish)
+## Related
 
-- **Source:** [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
-- **Lessons:** 15 (00-14)
-- **Images:** 53
-- **Videos:** 13 (YouTube embedded)
-- **Language:** Spanish (machine-translated from Microsoft repo)
-
-## Related Resources
-
-- [yoDEV Workplace](https://github.com/yoDEV-dev/affine-yodev-prod) - AFFiNE fork
-- [AFFiNE](https://github.com/toeverything/AFFiNE) - Upstream project
-- [BlockSuite](https://github.com/toeverything/blocksuite) - Editor framework
+- [yoDEV Workplace](https://workplace.yodev.dev) - AFFiNE-based workspace
+- [yoDEV Community](https://yodev.dev) - Discourse forums
 
 ## License
 

@@ -1,11 +1,15 @@
 # AI Agents for Beginners (Spanish)
 
+## Open in Workplace
+
+[**Abrir en Workplace**](https://workplace.yodev.dev/template/import?name=Agentes%20de%20IA%20para%20Principiantes&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ai-agents-es/course.zip)
+
 ## Course Information
 
 - **Original Source:** [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - **Language:** Spanish (machine-translated from Microsoft repo)
 - **Lessons:** 15 (00-14)
-- **Images:** 53
+- **Images:** 53 (base64 embedded)
 - **Videos:** 13 (YouTube, Lessons 01-13)
 
 ## Content Summary
@@ -35,44 +39,15 @@
 - Semantic Kernel
 - AutoGen
 
-## Image Storage
+## Files
 
-Images are stored in yoDEV R2 bucket:
-```
-https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ai-agents-es/images/
-```
-
-See `image-mapping.json` for complete URL mapping.
+- `course.zip` - BlockSuite snapshot for Workplace import (~2.7MB)
+- `source/` - Source markdown files
+- `image-mapping.json` - Original to R2 URL mapping
 
 ## Processing Notes
 
-1. Content compiled from Microsoft's Spanish translation (GitHub Actions machine-translated)
-2. Images downloaded and re-hosted on R2
-3. For Workplace import: base64 embedding used for reliable rendering
-4. Videos embedded using Workplace's YouTube embed feature
-5. Native Workplace TOC used instead of markdown TOC (anchor links don't work)
-
-## Files (Not in Repo)
-
-The following large files are generated locally but not committed:
-- `ai-agents-course-es.md` - Original compiled markdown (~50KB)
-- `ai-agents-course-es-final-v2.md` - Final with base64 images (~7.5MB)
-- `images/` - Downloaded image files (~5MB total)
-
-## Regenerating the Course
-
-```bash
-# 1. Download images
-./scripts/download-images.sh
-
-# 2. Add video links
-python scripts/add-videos.py
-
-# 3. Remove TOC
-sed '/^## Tabla de Contenidos$/,/^---$/d' input.md > output.md
-
-# 4. Convert images to base64
-python scripts/convert-to-base64.py
-
-# 5. Import to Workplace via markdown import function
-```
+1. Content compiled from Microsoft's Spanish translation
+2. Images downloaded and embedded as base64 for offline viewing
+3. Videos embedded using Workplace's YouTube embed feature
+4. Native Workplace TOC used instead of markdown TOC
