@@ -1,0 +1,275 @@
+{
+  "r2BaseUrl": "https://r2.yodev.dev/courses/ai-agents-es/images",
+  "images": [
+    {
+      "localFile": "lesson-00-forked-repo.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-forked-repo.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/forked-repo.33f27ca1901baa6a.webp"
+    },
+    {
+      "localFile": "lesson-00-github-asset.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-github-asset.webp",
+      "originalUrl": "https://github.com/user-attachments/assets/a85e776c-2edb-4331-ae5b-6bfdfb98ee0e"
+    },
+    {
+      "localFile": "lesson-00-profile-developer-settings.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-profile-developer-settings.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/profile_developer_settings.410a859fe749c755.webp"
+    },
+    {
+      "localFile": "lesson-00-fga-new-token.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-fga-new-token.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/fga_new_token.1c1a234afe202ab3.webp"
+    },
+    {
+      "localFile": "lesson-00-token-name-expiry-date.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-token-name-expiry-date.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/token-name-expiry-date.a095fb0de6386864.webp"
+    },
+    {
+      "localFile": "lesson-00-token-repository-limit.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-token-repository-limit.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/token_repository_limit.924ade5e11d9d8bb.webp"
+    },
+    {
+      "localFile": "lesson-00-add-models-permissions.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-add-models-permissions.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/add_models_permissions.c0c44ed8b40fc143.webp"
+    },
+    {
+      "localFile": "lesson-00-verify-permissions.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-verify-permissions.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/verify_permissions.06bd9e43987a8b21.webp"
+    },
+    {
+      "localFile": "lesson-00-store-token-securely.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-store-token-securely.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/store_token_securely.08ee2274c6ad6caf.webp"
+    },
+    {
+      "localFile": "lesson-00-github-token-field.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-github-token-field.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/github_token_field.20491ed3224b5f4a.webp"
+    },
+    {
+      "localFile": "lesson-00-project-endpoint.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-00-project-endpoint.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/project-endpoint.8cf04c9975bbfbf1.webp"
+    },
+    {
+      "localFile": "lesson-01-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-01-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-1-thumbnail.d21b2c34b32d35bb.webp"
+    },
+    {
+      "localFile": "lesson-01-what-are-ai-agents.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-01-what-are-ai-agents.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/what-are-ai-agents.1ec8c4d548af601a.webp"
+    },
+    {
+      "localFile": "lesson-01-when-to-use-ai-agents.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-01-when-to-use-ai-agents.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/when-to-use-ai-agents.54becb3bed74a479.webp"
+    },
+    {
+      "localFile": "lesson-02-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-02-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-2-thumbnail.c65f44c93b8558df.webp"
+    },
+    {
+      "localFile": "lesson-02-autogen-architecture-standalone.svg",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-02-autogen-architecture-standalone.svg",
+      "originalUrl": "https://microsoft.github.io/autogen/stable/_images/architecture-standalone.svg"
+    },
+    {
+      "localFile": "lesson-02-autogen-architecture-distributed.svg",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-02-autogen-architecture-distributed.svg",
+      "originalUrl": "https://microsoft.github.io/autogen/stable/_images/architecture-distributed.svg"
+    },
+    {
+      "localFile": "lesson-03-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-03-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-3-thumbnail.1092dd7a8f1074a5.webp"
+    },
+    {
+      "localFile": "lesson-03-agentic-design-principles.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-03-agentic-design-principles.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/agentic-design-principles.1cfdf8b6d3cc73c2.webp"
+    },
+    {
+      "localFile": "lesson-04-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-04-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-4-thumbnail.546162853cb3daff.webp"
+    },
+    {
+      "localFile": "lesson-04-functioncalling-diagram.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-04-functioncalling-diagram.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/functioncalling-diagram.a84006fc287f6014.webp"
+    },
+    {
+      "localFile": "lesson-04-agent-service-in-action.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-04-agent-service-in-action.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/agent-service-in-action.34fb465c9a84659e.webp"
+    },
+    {
+      "localFile": "lesson-05-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-05-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-5-thumbnail.20ba9d0c0ae64fae.webp"
+    },
+    {
+      "localFile": "lesson-05-agentic-rag-core-loop.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-05-agentic-rag-core-loop.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/agentic-rag-core-loop.c8f4b85c26920f71.webp"
+    },
+    {
+      "localFile": "lesson-05-tool-integration.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-05-tool-integration.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/tool-integration.0f569710b5c17c10.webp"
+    },
+    {
+      "localFile": "lesson-05-self-correction.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-05-self-correction.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/self-correction.da87f3783b7f174b.webp"
+    },
+    {
+      "localFile": "lesson-06-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-06-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-6-thumbnail.a58ab36c099038d4.webp"
+    },
+    {
+      "localFile": "lesson-06-system-message-framework.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-06-system-message-framework.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/system-message-framework.3a97368c92d11d68.webp"
+    },
+    {
+      "localFile": "lesson-06-understanding-threats.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-06-understanding-threats.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/understanding-threats.89edeada8a97fc0f.webp"
+    },
+    {
+      "localFile": "lesson-06-human-in-the-loop.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-06-human-in-the-loop.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/human-in-the-loop.5f0068a678f62f4f.webp"
+    },
+    {
+      "localFile": "lesson-07-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-07-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-7-thumbnail.f7163ac557bea123.webp"
+    },
+    {
+      "localFile": "lesson-07-defining-goals-tasks.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-07-defining-goals-tasks.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/defining-goals-tasks.d70439e19e37c47a.webp"
+    },
+    {
+      "localFile": "lesson-08-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-08-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-8-thumbnail.278a3e4a59137d62.webp"
+    },
+    {
+      "localFile": "lesson-08-multi-agent-group-chat.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-08-multi-agent-group-chat.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/multi-agent-group-chat.ec10f4cde556babd.webp"
+    },
+    {
+      "localFile": "lesson-08-multi-agent-hand-off.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-08-multi-agent-hand-off.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/multi-agent-hand-off.4c5fb00ba6f8750a.webp"
+    },
+    {
+      "localFile": "lesson-08-multi-agent-filtering.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-08-multi-agent-filtering.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/multi-agent-filtering.d959cb129dc9f608.webp"
+    },
+    {
+      "localFile": "lesson-09-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-09-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-9-thumbnail.38059e8af1a5b71d.webp"
+    },
+    {
+      "localFile": "lesson-09-importance-of-metacognition.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-09-importance-of-metacognition.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/importance-of-metacognition.b381afe9aae352f7.webp"
+    },
+    {
+      "localFile": "lesson-09-rag-vs-context.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-09-rag-vs-context.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/rag-vs-context.9eae588520c00921.webp"
+    },
+    {
+      "localFile": "lesson-10-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-10-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-10-thumbnail.2b79a30773db093e.webp"
+    },
+    {
+      "localFile": "lesson-10-langfuse-trace-tree.png",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-10-langfuse-trace-tree.png",
+      "originalUrl": "https://langfuse.com/images/cookbook/example-autogen-evaluation/trace-tree.png"
+    },
+    {
+      "localFile": "lesson-10-langfuse-example-dataset.png",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-10-langfuse-example-dataset.png",
+      "originalUrl": "https://langfuse.com/images/cookbook/example-autogen-evaluation/example-dataset.png"
+    },
+    {
+      "localFile": "lesson-10-langfuse-dashboard.png",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-10-langfuse-dashboard.png",
+      "originalUrl": "https://langfuse.com/images/cookbook/example-autogen-evaluation/dashboard.png"
+    },
+    {
+      "localFile": "lesson-11-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-11-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-11-thumbnail.b6c742949cf1ce2a.webp"
+    },
+    {
+      "localFile": "lesson-11-mcp-diagram.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-11-mcp-diagram.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/mcp-diagram.e4ca1cbd551444a1.webp"
+    },
+    {
+      "localFile": "lesson-11-a2a-diagram.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-11-a2a-diagram.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/A2A-Diagram.8666928d648acc26.webp"
+    },
+    {
+      "localFile": "lesson-11-nlweb-diagram.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-11-nlweb-diagram.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/nlweb-diagram.c1e2390b310e5fe4.webp"
+    },
+    {
+      "localFile": "lesson-12-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-12-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-12-thumbnail.ed19c94463e774d4.webp"
+    },
+    {
+      "localFile": "lesson-12-context-types.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-12-context-types.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/context-types.fc10b8927ee43f06.webp"
+    },
+    {
+      "localFile": "lesson-12-best-practices.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-12-best-practices.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/best-practices.f4170873dc554f58.webp"
+    },
+    {
+      "localFile": "lesson-13-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-13-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-13-thumbnail.959e3bc52d210c64.webp"
+    },
+    {
+      "localFile": "lesson-14-thumbnail.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-14-thumbnail.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/lesson-14-thumbnail.90df0065b9d234ee.webp"
+    },
+    {
+      "localFile": "lesson-14-framework-intro.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-14-framework-intro.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/framework-intro.077af16617cf130c.webp"
+    },
+    {
+      "localFile": "lesson-14-agent-components.webp",
+      "r2Url": "https://r2.yodev.dev/courses/ai-agents-es/images/lesson-14-agent-components.webp",
+      "originalUrl": "https://raw.githubusercontent.com/microsoft/ai-agents-for-beginners/main/translated_images/es/agent-components.410a06daf87b4fef.webp"
+    }
+  ]
+}
