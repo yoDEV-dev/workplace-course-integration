@@ -16,22 +16,32 @@ Curated courses for Latin American developers, available for import into yoDEV W
 | Parte 2 | Bibliotecas (Caps 5-6) | [**Abrir**](https://workplace.yodev.dev/template/import?name=HF%20NLP%20Parte%202%20-%20Bibliotecas&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/hf-nlp-es/part2-bibliotecas.zip) |
 | Parte 3 | Aplicaciones (Caps 7-8) | [**Abrir**](https://workplace.yodev.dev/template/import?name=HF%20NLP%20Parte%203%20-%20Aplicaciones&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/hf-nlp-es/part3-aplicaciones.zip) |
 
+### ML para Principiantes (Spanish)
+| Parte | Contenido | |
+|-------|-----------|---|
+| Parte 1 | Fundamentos (Intro + Regresión) | [**Abrir**](https://workplace.yodev.dev/template/import?name=ML%20Parte%201%20-%20Fundamentos&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ml-beginners-es/ml-beginners-part1-fundamentos.zip) |
+| Parte 2 | Clasificación (Web + Classification + Clustering) | [**Abrir**](https://workplace.yodev.dev/template/import?name=ML%20Parte%202%20-%20Clasificacion&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ml-beginners-es/ml-beginners-part2-clasificacion.zip) |
+| Parte 3 | NLP (Procesamiento de Lenguaje Natural) | [**Abrir**](https://workplace.yodev.dev/template/import?name=ML%20Parte%203%20-%20NLP&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ml-beginners-es/ml-beginners-part3-nlp.zip) |
+| Parte 4 | Avanzado (Time Series + RL + Real-World) | [**Abrir**](https://workplace.yodev.dev/template/import?name=ML%20Parte%204%20-%20Avanzado&mode=page&snapshotUrl=https://pub-f1a17e3d5e8149a18f5a54f2ea99c18c.r2.dev/courses/ml-beginners-es/ml-beginners-part4-avanzado.zip) |
+
 ---
 
 ## Course Details
 
 ### 1. AI Agents for Beginners
-
 - **Source:** [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - **Content:** 15 lessons on AI agent development
 - **Topics:** Agent frameworks, tool use, RAG, multi-agent patterns, memory
 
 ### 2. Hugging Face NLP Course
-
 - **Source:** [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
 - **Content:** Chapters 0-8 (70 sections)
 - **Topics:** Transformers, tokenization, fine-tuning, datasets, NLP tasks
-- **Split into 3 parts** for faster loading
+
+### 3. ML para Principiantes
+- **Source:** [Microsoft ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+- **Content:** 26 lessons in 4 parts
+- **Topics:** Regression, classification, clustering, NLP, time series, reinforcement learning
 
 ---
 
@@ -52,14 +62,8 @@ See [docs/authentication-flow.md](docs/authentication-flow.md) for technical det
 workplace-course-integration/
 ├── courses/
 │   ├── ai-agents-es/
-│   │   ├── course.zip
-│   │   └── README.md
-│   └── hf-nlp-es/
-│       ├── part1-fundamentos.zip
-│       ├── part2-bibliotecas.zip
-│       ├── part3-aplicaciones.zip
-│       ├── source/
-│       └── README.md
+│   ├── hf-nlp-es/
+│   └── ml-beginners-es/
 ├── docs/
 ├── scripts/
 └── templates/
